@@ -5,7 +5,7 @@ Este repositório contém os arquivos do meu desafio de criar uma página com in
 ## Tecnologias Utilizadas
 
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1.60.0-blue)
-- HTML
+- ![HTML](https://img.shields.io/badge/HTML-5-orange)
 
 ## Conteúdo
 
